@@ -1,0 +1,31 @@
+
+img{
+    height: 200px;
+    width: 200px;
+}
+#image{
+    float: top left;
+    
+}
+.page{
+    text-align: center;
+    font-size: small;
+}
+.content{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-size:small;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+#img{
+    float:left;   
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 300px;
+  }
